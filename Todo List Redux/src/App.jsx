@@ -1,5 +1,4 @@
 import Todo from './components/todo'
-//import './App.css'
 import {Provider} from "react-redux";
 import { store } from './app/store';
 
